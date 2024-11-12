@@ -55,7 +55,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>AJAX CRUD 페이지 구현 (22200150 김유진)</h1>
+      <h1>REACT CRUD 페이지 구현 (22200150 김유진)</h1>
       <button onClick={fetchData}>데이터 조회</button>
       <button onClick={openAddModal}>데이터 추가</button>
 
